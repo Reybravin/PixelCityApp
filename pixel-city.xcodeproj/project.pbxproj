@@ -397,6 +397,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VL3ZN4Q3MB;
 				INFOPLIST_FILE = "pixel-city/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.reybravin.pixel-city";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -413,6 +414,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VL3ZN4Q3MB;
 				INFOPLIST_FILE = "pixel-city/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.reybravin.pixel-city";
 				PRODUCT_NAME = "$(TARGET_NAME)";
